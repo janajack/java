@@ -1,0 +1,18 @@
+Import Java.io.in
+Class dem{
+Int a=10;
+If(a<=0)
+{
+Enter("given number is an negative num");
+}
+Else
+{
+If(a==0)
+{
+Enter("given num is zero");
+}
+Else
+{
+Enter("given num is positive num");
+}
+}
